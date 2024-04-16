@@ -1,0 +1,54 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://W5kDNi5hkCs8aZs:frS1dseFDB7Hu0n@localhost:54841/storage/emulated/0/joshuaaaa.html
+Subject: PSU Homepage
+Date: Tue, 16 Apr 2024 13:32:27 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--60gfHHyGg0k4I96rhJtF7bbrtNRQgAJrrDc0o4ZKZA----"
+
+
+------MultipartBoundary--60gfHHyGg0k4I96rhJtF7bbrtNRQgAJrrDc0o4ZKZA----
+Content-Type: text/html
+Content-ID: <frame-73AFAD8B830978C3169150540F155BFF@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://W5kDNi5hkCs8aZs:frS1dseFDB7Hu0n@localhost:54841/storage/emulated/0/joshuaaaa.html
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-b5b6faa3-2845-4ec0-b39d-55cb2a9fb45f@mhtml.blink" />
+    
+    <title>PSU Homepage</title>
+    
+</head>
+<body>
+    <center>
+      <br>
+       <h1 class="welcome">Welcome To PSU</h1>
+       <h3 class="top">Pangasinan State University-<span>Lingayen</span></h3>
+       <br>
+       <br><img src="http://W5kDNi5hkCs8aZs:frS1dseFDB7Hu0n@localhost:54841/storage/emulated/0/imges.jpeg">
+        <h1>About PSU</h1>
+        <hr>
+        <p>Pangasinan State University (Filipino: Pamantasang Pampamahalaan ng Pangasinan) also referred to by its acronym PSU or (PangSU) is a public university in Pangasinan province, Philippines. The university was founded in its current form in 1979, although its origins trace back to the 1920s. PSU is notable for its many locations throughout the province of Pangasinan. It is mandated to provide advanced instruction in the arts, agricultural and natural sciences as well as in technological and professional fields. Its main campus is located in Lingayen, Pangasinan. Other campuses are located in Alaminos, Asingan, Bayambang, Binmaley, Infanta, San Carlos City, Santa Maria, and Urdaneta City. The PSU School of Advanced Studies (SAS) is located in Urdaneta City and the Open University Systems (OUS) is located in Lingayen Campus. </p>
+        <br>
+        <br><b>Website:</b> www.psu.edu.ph <br> <b>Admission :</b> <a href="https://admission.psu.edu.ph/">click here</a>  <h1><a href="http://W5kDNi5hkCs8aZs:frS1dseFDB7Hu0n@localhost:54841/storage/emulated/0/joshuaaaa.html">Click Here to Visit PSU website</a></h1> <br> <br> <!-- Designed my Webbyimros <div class="copyright"> <p>Code Idea By <a href="https://www.youtube.com /channel/UC-KSCI0RPF9fI1U G269b4pg">Webbylmros</a>< /p> </div> </center> </body> </html>--></center></body></html>
+------MultipartBoundary--60gfHHyGg0k4I96rhJtF7bbrtNRQgAJrrDc0o4ZKZA----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-b5b6faa3-2845-4ec0-b39d-55cb2a9fb45f@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: arial; background: rgba(0, 0, 0, 0.85); color: white; text-align: center; }
+
+.welcome { color: blue; font-size: 27px; }
+
+.top span { color: yellow; }
+
+.info { border: 2px solid violet; padding: 20px; margin: 10px; text-align: left; }
+
+b { color: pink; font-size: 20px; }
+
+img { width: 100%; }
+
+a { color: white; }
+------MultipartBoundary--60gfHHyGg0k4I96rhJtF7bbrtNRQgAJrrDc0o4ZKZA------
